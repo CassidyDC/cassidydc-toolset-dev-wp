@@ -7,7 +7,6 @@
 		"esbenp.prettier-vscode", // Prettier for code formatting
 		"fabiospampinato.vscode-browser-refresh", // Browser refresh in VSCode with hotkey
 		"jacobcassidy.cassidy-dark", // VSCode theme
-		"jacobcassidy.css-nesting-syntax-highlighting", // CSS nesting syntax highlighting
 		"naumovs.color-highlight", // Highlight colors in code
 		"neilbrayfield.php-docblocker", // PHP DocBlocker for PHP DocBlock generation
 		"pflannery.vscode-versionlens", // Version Lens for package.json
